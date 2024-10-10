@@ -6,3 +6,7 @@ Author- Chhavi Raghav
 
 This project is a portfolio website that showcases my work.
 The website is built using HTML and CSS.
+my-portfolio/
+├── index.html
+└── styles.css
+
